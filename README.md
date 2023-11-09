@@ -16,4 +16,4 @@ Telegram *[@asisyas](https://t.me/asisyas)*
 
 Email: *kost@micro-php.net*
 
-![img](https://github-readme-stats.vercel.app/api?username=asisyas&include_all_commits=true)
+![Asisyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asisyas&include_all_commits=true)
